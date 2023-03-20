@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Desktop Connect Four/task/build/
+/Desktop Connect Four/task/out/
+/Desktop Connect Four/task/out/production/classes/
